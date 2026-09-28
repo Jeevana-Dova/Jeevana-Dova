@@ -10,7 +10,7 @@ I enjoy turning data into useful applications and exploring how machine learning
 
 [GitHub](https://github.com/Jeevana-Dova) · [Email](mailto:jeevanadova22@gmail.com)
 
-<!-- Add your LinkedIn and portfolio links here. -->
+<!--https://www.linkedin.com/in/jeevanadova/ -->
 
 ---
 
