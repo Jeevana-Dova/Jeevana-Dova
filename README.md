@@ -49,8 +49,6 @@ I enjoy turning data into useful applications and exploring how machine learning
 
 ---
 
-### 🧩 Selected Project Work
-
 ### 🧩 Featured Projects
 
 | Project | Description | Technologies / Methods |
@@ -88,22 +86,21 @@ Investigated how streamflow, baseflow conditions, and air temperature relate to 
 
 ---
 
-### 🎯 What I'm Learning
+### 🎯 Current Interests
 
-- **Recommendation systems:** collaborative filtering, two-tower models, ranking, and cold-start strategies.
-- **Evaluation:** Recall@K, NDCG@K, and connecting offline results to user outcomes.
-- **ML infrastructure:** model serving, monitoring, and scalable deployment.
+- Recommendation and personalization systems
+- Scalable ML infrastructure and efficient inference
+- Reliable generative AI and agentic applications
 
 ---
 
 ### 🏸 Beyond Coding
 
-- Badminton helps me recharge.
-- I speak **English, Hindi, and Telugu**.
-- I enjoy understanding how things work and learning by building.
+- A game of badminton is my favorite way to clear my head.
+- I started with aircraft and found my way to algorithms, curiosity has a way of changing the plan.
+- I like those moments when something confusing finally clicks.
 
 ---
-
 ### 🤝 Let's Connect
 
 Interested in machine learning, recommendation systems, or generative AI? I'd love to exchange ideas and build something useful together.
