@@ -21,16 +21,13 @@ I enjoy turning data into useful applications and exploring how machine learning
 </p>
 
 ---
-
 ### 🧠 About Me
 
-- 🎓 Completed my **M.S. in Data Science at Stevens Institute of Technology**, with a thesis and the **Provost Merit Scholarship**.
-- 💼 My background spans data science, machine learning, and enterprise technology.
-- 🤖 Interested in **generative AI, recommendation systems, and reliable ML deployment**.
-- 🔬 My research explored hydrologic and meteorological factors associated with **E. coli exceedances in the Passaic River**.
-- 🌱 Currently deepening my knowledge of recommendation architectures, ranking, and evaluation.
-- 🤝 Open to collaborating on practical AI/ML projects and research.
-
+- 💼 **5+ years of experience** building machine learning and enterprise AI solutions.
+- 🎓 **M.S. in Data Science, Stevens** — thesis graduate and **Provost Merit Scholar**.
+- 🤖 Focused on **Generative AI, RAG, and MLOps**, from experimentation to deployment.
+- ☁️ Building with **Python, AWS, and Azure** across data pipelines and AI applications.
+- 🔬 Applied ML to **water quality research**, presented at the **ASCE EWRI Congress**.
 ---
 
 ### ⚙️ Tech Stack
