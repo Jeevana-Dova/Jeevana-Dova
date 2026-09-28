@@ -24,7 +24,7 @@ I enjoy turning data into useful applications and exploring how machine learning
 ### 🧠 About Me
 
 - 💼 **5+ years of experience** building machine learning and enterprise AI solutions.
-- 🎓 **M.S. in Data Science, Stevens** — thesis graduate and **Provost Merit Scholar**.
+- 🎓 **M.S. in Data Science, Stevens**: thesis graduate and **Provost Merit Scholar**.
 - 🤖 Focused on **Generative AI, RAG, and MLOps**, from experimentation to deployment.
 - ☁️ Building with **Python, AWS, and Azure** across data pipelines and AI applications.
 - 🔬 Applied ML to **water quality research**, presented at the **ASCE EWRI Congress**.
