@@ -1,6 +1,6 @@
 # Hi there, I'm Jeevana Dova 👋
 
-### Machine Learning Engineer | Generative AI · Recommendation Systems · MLOps
+### Data Scientist | Machine Learning Engineer | Generative AI · Recommendation Systems · MLOps
 
 I enjoy turning data into useful applications and exploring how machine learning systems move from experimentation to deployment.
 
